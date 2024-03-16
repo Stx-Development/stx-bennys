@@ -34,7 +34,7 @@ local function Repair(typee)
             SetVehicleFixed(vehicle)
             SetVehicleEngineHealth(vehicle, currentEngine)
         end
-        exports['cdn-fuel']:SetFuel(vehicle, getFuel)
+        exports[Config.Fuel]:SetFuel(vehicle, getFuel)
     else
         lib.notify({
             title = 'Bennys',
