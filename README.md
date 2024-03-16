@@ -25,3 +25,7 @@ To add more jobs that gets checked if their employee is onduty, you can by going
 Check out my tebex if you want to buy one of my scripts
 
 [Tebex](https://stxlabs.tebex.io)
+
+# Credits
+Big credits goes to xt-development for providing repair code
+ [XT-DEV](https://github.com/xT-Development)
