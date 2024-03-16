@@ -22,7 +22,7 @@ end)
 RegisterNetEvent('srp-bennys:server:removemoney', function(typee)
     local src = source
 	local Player = QBCore.Functions.GetPlayer(src)
-    if Player.Functions.RemoveMoney('bank', 1000) then
+    if Player.Functions.RemoveMoney('bank', Config.RemoveMoney) then
         TriggerClientEvent('srp-bennys:client:passevent:openmenu', src, typee)
     end
 end)
