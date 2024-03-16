@@ -19,6 +19,8 @@ Just drag & drop the script in your resource file.
 
 To add more jobs that gets checked if their employee is onduty, you can by going through config file.
 
+if you want to change the location you can by going in client code and change the zones 
+
 # For Support Join My Discord 
 [Discord](https://discord.gg/rM44yC2aE9)
 
