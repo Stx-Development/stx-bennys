@@ -19,4 +19,5 @@ To add more jobs that gets checked if their employee is onduty, you can by going
 [Discord](https://discord.gg/rM44yC2aE9)
 
 Check out my tebex if you want to buy one of my scripts
+
 [Tebex](https://stxlabs.tebex.io)
