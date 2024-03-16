@@ -16,7 +16,7 @@ Just drag & drop the script in your resource file.
 To add more jobs that gets checked if their employee is onduty, you can by going through config file.
 
 # For Support Join My Discord 
-![Discord](https://discord.gg/rM44yC2aE9)
+[Discord](https://discord.gg/rM44yC2aE9)
 
 Check out my tebex if you want to buy one of my scripts
-![Tebex](https://stxlabs.tebex.io)
+[Tebex](https://stxlabs.tebex.io)
