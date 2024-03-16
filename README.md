@@ -7,6 +7,10 @@
 This script allows you to use the repair menu when there is no mechanic available in the city
 It supports multiple mechanic jobs and checks each job players if they are on duty
 
+# Dependencies
+- Supports QBCore
+- Uses OX_LIB
+
 # Installation
 
 Just drag & drop the script in your resource file.
