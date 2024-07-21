@@ -10,6 +10,7 @@ It supports multiple mechanic jobs and checks each job players if they are on du
 # Dependencies
 - Supports QBCore
 - Uses OX_LIB
+- Uses PolyZone
 
 # Installation
 
