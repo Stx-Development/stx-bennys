@@ -1,6 +1,16 @@
 # Stx Benny System
 ![Untitled](https://github.com/Stx-Development/stx-bennys/assets/99145322/cad4ce22-3025-49de-b71b-d0465e849ea8)
 
+<p align="center">
+  <a href="https://badge.fury.io/js/electron-markdownify">
+    <img src="https://img.shields.io/github/downloads/vipexv/minimal-hud/total?logo=github"
+         alt="Repo Downloads">
+  </a>
+  <a> <img src="https://img.shields.io/github/contributors/Stx-Development/stx-bennys?logo=github"></a>
+  <a> <img src="https://img.shields.io/github/v/release/Stx-Development/stx-bennys?logo=github"></a>
+  <a><img src="https://img.shields.io/github/downloads/Stx-Development/stx-bennys/latest/total?logo=github"></a>
+</p>
+
 
 # Description
 
