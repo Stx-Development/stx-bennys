@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://img.shields.io/github/downloads/vipexv/minimal-hud/total?logo=github"
+    <img src="https://img.shields.io/github/downloads/Stx-Development/stx-bennys/total?logo=github"
          alt="Repo Downloads">
   </a>
   <a> <img src="https://img.shields.io/github/contributors/Stx-Development/stx-bennys?logo=github"></a>
